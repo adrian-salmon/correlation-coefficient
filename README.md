@@ -46,4 +46,4 @@ To deploy manually:
 - React
 - Recharts
 - TypeScript
-- Tailwind CSS 
+- Tailwind CSS
