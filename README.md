@@ -9,9 +9,3 @@ This interactive shows users what different **correlation values (r values)** lo
 Try it here:  
 👉 https://adrian-salmon.github.io/correlation-coefficient/
 
----
-
-## 📍 Where This Interactive Is Used
-
-📘 **CK-12 Intent Response** 👉 https://ck12.co/4PLyn
-
